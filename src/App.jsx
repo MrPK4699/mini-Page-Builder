@@ -6,7 +6,7 @@ import CustomModal from "./components/CustomModal";
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
-import "./assets/css/App.css";
+import "./App.css";
 import useElementsStorage from "./customHooks/useElementsStorage";
 import { handleElementDragStart } from "./helper";
 
