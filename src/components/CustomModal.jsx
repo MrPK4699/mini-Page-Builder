@@ -10,8 +10,8 @@ const CustomModal = (props) => {
 
   const [submitted, setSubmitted] = useState(false);
 
-  const [setElement] = useElementsStorage();
-  // const [elements, setElement, deleteElement] = useElementsStorage();
+  // const [setElement] = useElementsStorage();
+  const [elements, setElement, deleteElement] = useElementsStorage();
 
   const textRef = useRef();
 
