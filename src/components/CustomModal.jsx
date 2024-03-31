@@ -1,7 +1,7 @@
 import React , { useState, useRef } from "react";
 // import React , { useState, useRef, useEffect } from "react";
 import { Modal } from "react-bootstrap";
-import { ReactComponent as CloseIcon } from "../assets/images/close.svg";
+import { ReactComponent as CloseIcon } from "../images/close.svg";
 import useElementsStorage from "../customHooks/useElementsStorage";
 import { handleElementDragStart } from "../helper";
 
