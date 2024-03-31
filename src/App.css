@@ -47,7 +47,7 @@
 }
 
 .app > aside > section > .element-block::before {
-  content: url(../images/grip-vertical.svg);
+  content: url(./images/grip-vertical.svg);
   position: absolute;
   top: 58%;
   left: 12px;
